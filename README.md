@@ -9,6 +9,7 @@ My Output Console:
 
 
 
+
 The project is an automation of an all-encompassing registration process to the Authorized Partner platform. It has such advanced features as automated Gmail OTP retrieval and management of dynamic web elements.
 
 ## 🚀 Key Features
