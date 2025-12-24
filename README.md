@@ -3,6 +3,11 @@
 DEMO VIDEO LINK:
 https://www.loom.com/share/60eaf0b38e834e108fce627d26da97d5
 
+My Output Console:
+
+<img width="236" height="86" alt="image" src="https://github.com/user-attachments/assets/63e2b0b9-d5d3-48b3-959b-b1abdd6cfd59" />
+
+
 The project is an automation of an all-encompassing registration process to the Authorized Partner platform. It has such advanced features as automated Gmail OTP retrieval and management of dynamic web elements.
 
 ## 🚀 Key Features
