@@ -1,5 +1,8 @@
 # Selenium Automation Signup
 
+DEMO VIDEO LINK:
+https://www.loom.com/share/60eaf0b38e834e108fce627d26da97d5
+
 The project is an automation of an all-encompassing registration process to the Authorized Partner platform. It has such advanced features as automated Gmail OTP retrieval and management of dynamic web elements.
 
 ## 🚀 Key Features
